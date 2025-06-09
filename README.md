@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svuatoslav)]
 <!---Для компактной версии-->
 

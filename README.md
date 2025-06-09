@@ -1,5 +1,10 @@
 ## Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svuatoslav)]
+<!---Для компактной версии-->
 
+
+<!---Для подробной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svuatoslav)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svuatoslav&layout=compact)]
 <!--
 **svuatoslav/svuatoslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
